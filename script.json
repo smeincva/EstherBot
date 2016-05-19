@@ -1,5 +1,7 @@
 {
-    "BOT": "Hi there!\nI’m the SME bot.  Here to provide basic information.\n!Want to know more about SME? ",
+    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes or No",
+    "YES": "You said Yes",
+    "NO": "You said No, Goodbye.",
     "HELLO": "Yo, you typed hello.",
     "TELL_SME": "Let's tweet @sme_inc. Here's a tweet that's ready to go:",
     "CONNECT ME": "",
