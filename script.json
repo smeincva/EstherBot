@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes, No or Help",
+    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes, No or Menu",
     "YES": "You said Yes",
     "NO": "You said No, Goodbye.",
     "HELLO": "Yo, you typed hello.",
@@ -7,5 +7,5 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.",
     "l8r": "Later",
-    "HELP": "I can respond to BOT, TELL_SME, l8r"
+    "Menu": "I can respond to BOT, TELL_SME, l8r"
 }
