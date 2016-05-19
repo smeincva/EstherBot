@@ -1,11 +1,16 @@
 {
-    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes, No or Menu",
-    "YES": "You said Yes",
+    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes, No, Menu or Bye",
+    "YES": "You said Yes.\nSME, Inc. - Systems Management Enterprises, Inc.  Tech Support, Data Center Services, Compliance, Security.",
     "NO": "You said No, Goodbye.",
-    "HELLO": "Yo, you typed hello.",
+    "HELLO": "Yo!",
     "TELL_SME": "Let's tweet @sme_inc. Here's a tweet that's ready to go:",
+    "ADDRESS": "1900 Campus Commons Dr, Ste 100.  Reston, VA  20191",
+    "PHONE": "703-378-4110 or 855-2-SME-INC",
+    "WEBSITE": "https://www.smeinc.net",
+    "EMAIL": "support@smeinc.net",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.",
     "L8R": "Later",
-    "MENU": "I can respond to BOT, TELL_SME, l8r"
+    "BYE": "Goodbye",
+    "MENU": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email and Bye"
 }
