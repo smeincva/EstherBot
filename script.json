@@ -1,9 +1,11 @@
 {
-    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes or No",
+    "BOT": "Hi there! I’m the SME bot here to provide basic information.  Want to know more about SME?  Reply Yes, No or Help",
     "YES": "You said Yes",
     "NO": "You said No, Goodbye.",
     "HELLO": "Yo, you typed hello.",
     "TELL_SME": "Let's tweet @sme_inc. Here's a tweet that's ready to go:",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, Bot is back."
+    "DISCONNECT": "Roger that, Bot is back.",
+    "l8r": "Later",
+    "HELP": "I can respond to BOT, TELL_SME, l8r"
 }
