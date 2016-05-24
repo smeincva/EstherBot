@@ -1,8 +1,9 @@
 {
-    "BOT": "Hi there!  I’m the SME Bot.  Want to know more about SME?  I can respond to Yes, No or CanDo",
+    "BOT": "Hi there!  I’m the SME Bot.  Want to know more about SME?  I can respond to Yes, No or ask me \"What can you do?\"",
     "YES": "You said Yes.\nSME, Inc. - Systems Management Enterprises, Inc.  Tech Support, Data Center Services, Compliance, Security.",
     "NO": "You said No, Goodbye.",
     "HELLO": "Hi!",
+    "Hi": "Hi!",
     "TELL_SME": "Let's tweet @sme_inc. Here's a tweet that's ready to go:",
     "ADDRESS": "1900 Campus Commons Dr, Ste 100.  Reston, VA  20191",
     "PHONE": "703-378-4110 or 855-2-SME-INC",
@@ -13,5 +14,7 @@
     "L8R": "Later",
     "BYE": "Thank you for using the SME Bot, Goodbye",
     "GOODBYE": "Thank you for using the SME Bot, Goodbye.",
-    "CANDO": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye"
+    "CANDO": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
+    "What can you do?": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
+    "Matjick": "It's a kind of magic!"
 }
