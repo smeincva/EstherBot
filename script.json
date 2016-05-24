@@ -15,6 +15,6 @@
     "BYE": "Thank you for using the SME Bot, Goodbye",
     "GOODBYE": "Thank you for using the SME Bot, Goodbye.",
     "CANDO": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
-    "What can you do?": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
-    "Matjick": "It's a kind of magic!"
+    "WHAT CAN YOU DO?": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
+    "MATJICK": "It's a kind of magic!"
 }
