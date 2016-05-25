@@ -5,6 +5,7 @@
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.",
     "EMAIL": "support@smeinc.net",
+    "FUN STUFF": "I can also respond to l8r, ride, snow, and there may be some other Easter eggs.",
     "GOODBYE": "Thank you for using the SME Bot, Goodbye.",
     "HELLO": "Hi!",
     "HELP": "I can respond to What can you do?, Bot, Address, Phone, Website, Email, Hello and Goodbye",
@@ -21,7 +22,7 @@
     "RIDE": "http://timeanddate.com/s/2zye",
     "SNOW": "http://timeanddate.com/s/2zye",
     "WEBSITE": "https://www.smeinc.net",
-    "WHAT CAN YOU DO": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
-    "WHAT CAN YOU DO?": "I can respond to Bot, Tell_SME, Address, Phone, Website, Email, Hello and Goodbye",
+    "WHAT CAN YOU DO": "I can respond to Bot, SME, Address, Phone, Website, Email, Hello and Goodbye",
+    "WHAT CAN YOU DO?": "I can respond to Bot, SME, Address, Phone, Website, Email, Hello and Goodbye",
     "YES": "You said Yes.\nSME, Inc. - Systems Management Enterprises, Inc.  Tech Support, Data Center Services, Compliance, Security."
 }
