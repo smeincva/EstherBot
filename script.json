@@ -1,7 +1,7 @@
 {
     "ADDRESS": "1900 Campus Commons Dr, Ste 100.  Reston, VA  20191",
     "BOT": "Hi there!  I’m the SME Bot.  Want to know more about SME?  You can say Yes, No or ask me \"What can you do?\"",
-    "BUTTON TEST": %[I'm here for the bot](postback:here_for_the_bot) %[Learn about SME]
+    "BUTTON TEST": "%[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "BYE": "Thank you for using the SME Bot, Goodbye",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, Bot is back.",
