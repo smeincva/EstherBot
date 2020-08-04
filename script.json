@@ -38,5 +38,8 @@
     "WHAT?": "I can respond to Bot, SME, Address, Phone, Website, Email, Hello, Goodbye, and Fun Stuff.",
     "WHAT CAN YOU DO": "I can respond to Bot, SME, Address, Phone, Website, Email, Hello, Goodbye, and Fun Stuff.",
     "WHAT CAN YOU DO?": "I can respond to Bot, SME, Address, Phone, Website, Email, Hello Goodbye, and Fun Stuff.",
-    "YES": "SME, Inc. - Systems Management Enterprises, Inc.  Simply Making IT Easier!  With Tech Support, Data Center, Compliance, and Security products and services."
+    "YES": "SME, Inc. - Systems Management Enterprises, Inc.  Simply Making IT Easier!  With Tech Support, Data Center, Compliance, and Security products and services.",
+    "CTF": "Shall we play a game?  If yes, test me SAFEMODE",
+    "SAFEMODE": "It's Def Con 28 but we have ten fingers.  2887453468",
+    "HELP": "2887453468 Have you tried google?"
 }
